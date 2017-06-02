@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>slider2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/slim/</ImageTemplate>
+            <ImageTemplateName>Slim</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#38B6CD</TemplateColor>
+            <TemplateFont>Lobster</TemplateFont>
+            <TemplateName>slim</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app10/imagenes/7c.jpg</url>
+                <title>7c</title>
+                <filesize>119016</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app10/imagenes/8b.png</url>
+                <title>8b</title>
+                <filesize>777229</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app10/imagenes/8c.jpg</url>
+                <title>8c</title>
+                <filesize>56143</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app10/imagenes/9b.png</url>
+                <title>9b</title>
+                <filesize>136167</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app10/imagenes/9c.jpg</url>
+                <title>9c</title>
+                <filesize>72010</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app10/imagenes/10b.png</url>
+                <title>10b</title>
+                <filesize>145177</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app10/imagenes/66.jpg</url>
+                <title>66</title>
+                <filesize>40580</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app10/imagenes/a.jpg</url>
+                <title>a</title>
+                <filesize>101139</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
